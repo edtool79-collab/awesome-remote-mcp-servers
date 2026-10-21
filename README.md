@@ -3132,6 +3132,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HirePulse](https://github.com/edtool79-collab/hirepulse-mcp) `https://gethirepulse.xyz/mcp`
   [![HirePulse Agent Gateway MCP connector](https://glama.ai/mcp/connectors/io.github.edtool79-collab/hirepulse-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.edtool79-collab/hirepulse-gateway)
   🔓 - B2B intelligence, hiring signals, company tech stacks, Google Ads transparency, and merchant trust verification; 5 free calls daily.
+- [HirePulse Apify](https://apify.com/hirepulse) `https://mcp.apify.com/?tools=hirepulse/aliexpress-search-scraper,hirepulse/google-ads-transparency-scraper,hirepulse/company-intent-radar,hirepulse/google-jobs-scraper,hirepulse/ats-job-pulse,hirepulse/keyword-search-volume,hirepulse/domain-seo-overview,hirepulse/youtube-transcript-scraper`
+  [![HirePulse Apify MCP connector](https://glama.ai/mcp/connectors/io.github.edtool79-collab/hirepulse-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.edtool79-collab/hirepulse-tools)
+  🔑 - Jobs, ads, SEO, keywords, transcripts and product data via Apify; requires an Apify token and separate Actor billing.
 - [Horizon](https://horizon.alchemylab.sh/developers) `https://horizon.alchemylab.sh/api/mcp`
   [![Horizon MCP connector](https://glama.ai/mcp/connectors/sh.alchemylab.horizon/briefing/badges/score.svg)](https://glama.ai/mcp/connectors/sh.alchemylab.horizon/briefing)
   🔓 - Daily AI briefing, AI regulation tracker (EU AI Act, US federal & state, UK), regional lenses and search.
